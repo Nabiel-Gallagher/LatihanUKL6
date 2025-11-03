@@ -1,4 +1,4 @@
-# Program Biaya Pengiriman
+# Program Menghitung Matriks
 
 Program ini melakukan penjumlahan dua matriks berukuran sama.
 
